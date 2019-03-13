@@ -10,8 +10,9 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.16.4",
-    "typescript": "^3.3.3333",
-    "lodash": "^3"
+    "happy": "0.0.1",
+    "lodash": "^3",
+    "typescript": "^3.3.3333"
   },
   "devDependencies": {
     "@types/lodash": "^3"
